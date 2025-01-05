@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 import { useNavigation, useRoute } from '@react-navigation/native';
 
-export default function Header() {
+export default function header() {
     const navigation = useNavigation();
     const route = useRoute();
 

@@ -335,6 +335,5 @@ export const courses = [
     {"student_id": 10, "subject_id": 6, "marks": 82}
   ];
 
-StudentsDb.js
 
-Displaying StudentsDb.js.
+studentdb.js;
